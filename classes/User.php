@@ -1,5 +1,6 @@
 <?php
-
+namespace PhpunitUnitTesting;
+use InvalidArgumentException;
 class User
 {
     public int $age;

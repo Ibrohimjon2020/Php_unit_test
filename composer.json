@@ -1,0 +1,17 @@
+{
+    "name": "ibrohimjon/phpunit-unit-testing",
+    "autoload": {
+        "psr-4": {
+            "PhpunitUnitTesting\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ibrohimjon2020",
+            "email": "maxamadraximovibrohimjon@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
